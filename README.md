@@ -8,8 +8,9 @@ Great, but now look at these images, don't they look cool on a GitHub profile? P
 </kbd>
 
 ### Some other stuff about me
-* Yes, I am weird.
 * I love reading and writing clean code!
+* I LOVE skeumorphism GUIs and I will ALWAYS prefer it over any minimalist design.
+* Yes, I am weird.
 
 
 ---
@@ -17,7 +18,7 @@ Great, but now look at these images, don't they look cool on a GitHub profile? P
 Almost forgot, I am available on these sites:
 
 <a href="https://codepen.io/darvil82"><kbd>
-  <img width=15 src="https://github.com/darvil82/DarviL82/assets/48654552/6d4cea96-106c-4b77-8f9e-18f66a8b3d44" target="_blank"> <b>Codepen</b>
+  <img width=15 src="https://github.com/user-attachments/assets/970e8d66-7179-49cc-ae3b-eb5b38c3b59c" target="_blank"> <b>Codepen</b>
 </kbd></a>
 &nbsp;
 <a href="https://ko-fi.com/darvil"><kbd>
