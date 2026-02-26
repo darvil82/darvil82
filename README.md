@@ -1,12 +1,5 @@
 I'm David, and I LOVE everything related to technology, and especially how it works. I find old tech fascinating and programming is likely my favorite hobby.
 
-Great, but now look at these images, don't they look cool on a GitHub profile? People seem to like them.
-
-<kbd>
-  <img src="https://github-readme-stats.vercel.app/api?username=DarviL82&show_icons=true&theme=synthwave&hide_border=true&title_color=03fcb1" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarviL82&layout=compact&langs_count=10" height=200 >
-</kbd>
-
 ### Some other stuff about me
 * I love reading and writing clean code!
 * I LOVE skeumorphism GUIs and I will ALWAYS prefer it over any minimalist design.
