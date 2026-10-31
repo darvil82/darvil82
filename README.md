@@ -4,7 +4,7 @@ I'm David, and I LOVE everything related to technology, and especially how it wo
 * I love reading and writing clean code!
 * I LOVE skeumorphism GUIs and I will ALWAYS prefer it over any minimalist design.
 * Yes, I am weird.
-* I am a programmer, therefore I don't use sloppers to write it.
+* I am a programmer, therefore I don't use sloppers to write code.
 
 
 ---
